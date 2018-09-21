@@ -1,0 +1,23 @@
+{
+  "name": "webapp1",
+  "version": "1.0.0",
+  "description": "WebApp_1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarishRMaryada/WEBAPP1.git"
+  },
+  "author": "Harish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarishRMaryada/WEBAPP1/issues"
+  },
+  "homepage": "https://github.com/HarishRMaryada/WEBAPP1#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
